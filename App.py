@@ -12,3 +12,9 @@ print ("feature 7")
 
 print("feature update 1")
 print("feature update 2")
+print ( "bug reported ")
+print ("error reported")
+
+print ("error 1")
+print ("error 2")
+print ("eerror 3")
